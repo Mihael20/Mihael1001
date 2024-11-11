@@ -1,0 +1,267 @@
+body{
+margin:0px;
+padding:0px;
+height:1600px;
+
+}
+nav{
+
+background:url('images.jpg');
+top:0px;
+position:absolute;
+
+height:10%;
+width:100%;
+
+
+
+}
+
+ul{
+padding:0;
+margin: 20 0 0 250px;
+list-style:none;
+}
+
+
+li{
+float:left;
+}
+
+li a {
+width:120px;
+display:block;
+padding: 35px 20px ;
+text-decoration:none;
+font-family:arial;
+color:white;
+text-align:center;
+}
+
+li a:hover{
+background:purple;
+text-transform:uppercase;
+}
+
+li a{
+font-size:150%;
+}
+
+footer li{
+
+list-style-type: none;
+
+background:url('images.jpg');
+
+
+position:absolute;
+top:1630px;         /* ova e za podolu nav bar */
+
+height:10%;
+width:100%;
+
+
+}
+
+.make{
+color:white;
+width:28%;
+bottom:280px;
+position:absolute;
+left:30px;
+
+}
+
+.buy {
+  background-color: black;
+  border: none;
+  color: red;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 30px;
+  cursor: pointer;
+  position: absolute;
+  bottom:150px;
+  
+}
+
+.my{
+position:absolute;
+bottom:150px;
+left:140px;
+color:white;
+}
+.game{
+position:absolute;
+bottom:410px;
+left:550px;
+}
+.da{
+position:absolute;
+width:28%;
+color:white;
+left:640px;
+bottom:250px;
+
+}
+
+.com{
+position:absolute;
+bottom:410px;
+left:1250px;
+}
+
+.roar{
+position:absolute;
+width:28%;
+bottom:220px;
+color:red;
+left:1320px;
+color:white;
+
+}
+
+.product {
+  background-color: black;
+  border: none;
+  color: red;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 5px 639px;
+  cursor: pointer;
+  position: absolute;
+  bottom:150px;
+  
+}
+.re{
+position:absolute;
+bottom:150px;
+left:750px;
+color:white;
+
+
+}
+
+.pro {
+  background-color: black;
+  border: none;
+  color: red;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 5px 1320px;
+  cursor: pointer;
+  position: absolute;
+  bottom:150px;
+  
+}
+
+.ja{
+position:absolute;
+bottom:150px;
+left:1420px;
+color:white;
+
+
+}
+
+.mhm{
+position:absolute;
+padding-left:15px;
+padding-top:19%;
+
+
+
+width:400px;
+height:430px;
+
+}
+
+.rar{
+
+width:28%;
+bottom:0px;
+padding-top:42%;
+padding-left:30px;
+color:white;
+}
+.rem {
+  background-color: black;
+  border: none;
+  color: red;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  position: absolute;
+  top:1550px;
+  left:30px;
+  
+}
+
+.ey{
+position:absolute;
+top:1550px;
+left:140px;
+color:white;
+
+
+}
+
+.toe{
+position:absolute;
+margin: auto;
+width: 22%;
+top:790px;
+padding:90px;
+left:700px;
+}
+
+.siv{
+position:absolute;
+width:400px;
+top:1350px;
+left:820px;
+color:white;
+
+}
+.te {
+  background-color: black;
+  border: none;
+  color: red;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  position: absolute;
+  top:1550px;
+  left:820px;
+  
+}
+.dzej{
+position:absolute;
+top:1550px;
+left:920px;
+color:white;
+
+}
+
+
+
+
+
+  
